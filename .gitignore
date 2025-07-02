@@ -1,0 +1,56 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+*.log
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# macOS / Linux / Windows system files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Environment & Python config
+*.env
+.env.*
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# pyenv
+.python-version
+
+# Compiled C files
+*.so
+
+# Spyder project files
+.spyderproject
+.spyproject
+
+# Streamlit-specific cache
+.streamlit/config.toml
+.streamlit/secrets.toml
+
+# Data files (optional)
+*.csv
+*.xlsx
+*.json
+!sample_predicted_pm.csv
+!sample_comparison.csv
