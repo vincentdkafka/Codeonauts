@@ -106,4 +106,4 @@ else:
 
 # --- Footer ---
 st.markdown("---")
-st.markdown("🚀 Developed with ❤️ By team Codenauts | Powered by INSAT, CPCB, MERRA-2, and Machine Learning")
+st.markdown("🚀 Developed with ❤️ By team Horizon's Limit | Powered by INSAT, CPCB, MERRA-2, and Machine Learning")
